@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen Jetpack</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="label_password">Password</string>
+    <string name="username">Username</string>
+    <string name="label_sign_in_to_account">Sign In to your account</string>
+</resources>
